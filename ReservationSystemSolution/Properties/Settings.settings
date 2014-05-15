@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReservationSystemSolution.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReservationFileNameFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;Date&gt;Reservations.xml</Value>
+    </Setting>
+    <Setting Name="ReservationFileNameFormatDateTag" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;Date&gt;</Value>
+    </Setting>
+    <Setting Name="TablesFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tables.xml</Value>
+    </Setting>
+    <Setting Name="FirstReservationTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10:00 AM</Value>
+    </Setting>
+    <Setting Name="LastReservationTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10:00 PM</Value>
+    </Setting>
+    <Setting Name="ShortDateFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MM-dd-yyyy</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
